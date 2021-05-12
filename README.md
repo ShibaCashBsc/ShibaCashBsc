@@ -28,8 +28,8 @@ Tokenomics:
 Socials | Link
 ------------ | -------------
 Website | https://ShibaInu.cash
-Telegram | TBA
+Telegram | https://t.me/ShibaCash_bsc 
 Twitter | https://twitter.com/ShibaCashBsc
-Reddit | TBA
+Reddit | https://www.reddit.com/r/ShibaCashBsc/
 CoinMarketCap | TBA
 Coingecko | TBA
